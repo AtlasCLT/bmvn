@@ -1,8 +1,8 @@
 {
   "name": "bmvn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "auto-updater": {
-    "repo":"/AtlasCLT/bmvn",
+    "repo":"AtlasCLT/bmvn",
     "branch":"master"
   },  
   "license": "private",
